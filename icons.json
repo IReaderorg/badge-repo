@@ -1,0 +1,106 @@
+{
+  "icons": [
+    {
+      "id": "brone",
+      "name": "brone",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/brone.png",
+      "source": "remote"
+    },
+    {
+      "id": "crtic",
+      "name": "crtic",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/crtic.png",
+      "source": "remote"
+    },
+    {
+      "id": "developer",
+      "name": "developer",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/developer.png",
+      "source": "remote"
+    },
+    {
+      "id": "designer",
+      "name": "designer",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/designer.png",
+      "source": "remote"
+    },
+    {
+      "id": "silver",
+      "name": "silver",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/silver.png",
+      "source": "remote"
+    },
+    {
+      "id": "novicereader",
+      "name": "novicereader",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/novicereader.png",
+      "source": "remote"
+    },
+    {
+      "id": "scholar",
+      "name": "scholar",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/scholar.png",
+      "source": "remote"
+    },
+    {
+      "id": "expertreviewer",
+      "name": "expertreviewer",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/expertreviewer.png",
+      "source": "remote"
+    },
+    {
+      "id": "gold",
+      "name": "gold",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/gold.png",
+      "source": "remote"
+    },
+    {
+      "id": "platinium",
+      "name": "platinium",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/platinium.png",
+      "source": "remote"
+    },
+    {
+      "id": "translator",
+      "name": "translator",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/translator.png",
+      "source": "remote"
+    },
+    {
+      "id": "hero",
+      "name": "hero",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/hero.png",
+      "source": "remote"
+    },
+    {
+      "id": "bookworm",
+      "name": "bookworm",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/bookworm.png",
+      "source": "remote"
+    },
+    {
+      "id": "mastercritics",
+      "name": "mastercritics",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/mastercritics.png",
+      "source": "remote"
+    },
+    {
+      "id": "bughunter",
+      "name": "bughunter",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/bughunter.png",
+      "source": "remote"
+    },
+    {
+      "id": "earlyadapter",
+      "name": "earlyadapter",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/earlyadapter.png",
+      "source": "remote"
+    },
+    {
+      "id": "readingmaster",
+      "name": "readingmaster",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/readingmaster.png",
+      "source": "remote"
+    }
+  ]
+}
