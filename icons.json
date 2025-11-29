@@ -8,7 +8,7 @@
       "category": "donor",
       "rarity": "common",
       "type": "ACHIEVEMENT",
-      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/bronze-min.png",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/bronze-supporter.png",
       "source": "remote"
     },
     {
@@ -45,10 +45,76 @@
       "source": "remote"
     },
     {
+      "id": "donor_coffee",
+      "name": "Coffee Supporter",
+      "description": "Bought us a coffee",
+      "emoji": "☕",
+      "category": "donor",
+      "rarity": "common",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/coffee-supporter.png",
+      "source": "remote"
+    },
+    {
+      "id": "donor_early",
+      "name": "Early Supporter",
+      "description": "Supported during early development",
+      "emoji": "🌱",
+      "category": "donor",
+      "rarity": "rare",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/early-supporter.png",
+      "source": "remote"
+    },
+    {
+      "id": "donor_lifetime",
+      "name": "Lifetime Supporter",
+      "description": "Made a lifetime contribution",
+      "emoji": "♾️",
+      "category": "donor",
+      "rarity": "legendary",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/lifetime-supporter.png",
+      "source": "remote"
+    },
+    {
+      "id": "donor_ultimate",
+      "name": "Ultimate Benefactor",
+      "description": "Made an extraordinary contribution",
+      "emoji": "�",
+      "category": "donor",
+      "rarity": "legendary",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/ultimate-benefactor.png",
+      "source": "remote"
+    },
+    {
+      "id": "patreon_generous",
+      "name": "Generous Patreon",
+      "description": "Generous Patreon supporter",
+      "emoji": "🎁",
+      "category": "donor",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/generous-pathreon.png",
+      "source": "remote"
+    },
+    {
+      "id": "patreon_legendary",
+      "name": "Legendary Patreon",
+      "description": "Legendary Patreon supporter",
+      "emoji": "🏆",
+      "category": "donor",
+      "rarity": "legendary",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/legendary-patreon.png",
+      "source": "remote"
+    },
+    {
       "id": "contributor_translator",
       "name": "Translator",
       "description": "Contributed translations",
-      "emoji": "🌐",
+      "emoji": "�",
       "category": "contributor",
       "rarity": "rare",
       "type": "ACHIEVEMENT",
@@ -78,10 +144,21 @@
       "source": "remote"
     },
     {
+      "id": "contributor_code",
+      "name": "Code Contributor",
+      "description": "Contributed code to the project",
+      "emoji": "🔧",
+      "category": "contributor",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/code-contributor.png",
+      "source": "remote"
+    },
+    {
       "id": "novice_reader",
       "name": "Novice Reader",
       "description": "Read your first 10 chapters",
-      "emoji": "📖",
+      "emoji": "�",
       "category": "reader",
       "rarity": "common",
       "type": "ACHIEVEMENT",
@@ -122,6 +199,28 @@
       "source": "remote"
     },
     {
+      "id": "marathon_reader",
+      "name": "Marathon Reader",
+      "description": "Read for an extended period without breaks",
+      "emoji": "🏃",
+      "category": "reader",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/marathond-reader.png",
+      "source": "remote"
+    },
+    {
+      "id": "scholar",
+      "name": "Scholar",
+      "description": "Demonstrated exceptional reading knowledge",
+      "emoji": "🎓",
+      "category": "reader",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/scholar.png",
+      "source": "remote"
+    },
+    {
       "id": "first_critic",
       "name": "First Critic",
       "description": "Write your first review",
@@ -136,7 +235,7 @@
       "id": "thoughtful_critic",
       "name": "Thoughtful Critic",
       "description": "Write 10 reviews",
-      "emoji": "💭",
+      "emoji": "�",,
       "category": "reviewer",
       "rarity": "rare",
       "type": "ACHIEVEMENT",
@@ -152,6 +251,39 @@
       "rarity": "epic",
       "type": "ACHIEVEMENT",
       "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/master-critic-min.png",
+      "source": "remote"
+    },
+    {
+      "id": "critic",
+      "name": "Critic",
+      "description": "Write reviews regularly",
+      "emoji": "📝",
+      "category": "reviewer",
+      "rarity": "rare",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/critic.png",
+      "source": "remote"
+    },
+    {
+      "id": "expert_reviewer",
+      "name": "Expert Reviewer",
+      "description": "Write high-quality detailed reviews",
+      "emoji": "⭐",
+      "category": "reviewer",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/expert-reviewer.png",
+      "source": "remote"
+    },
+    {
+      "id": "legendary_critic",
+      "name": "Legendary Critic",
+      "description": "Achieved legendary status as a reviewer",
+      "emoji": "🌟",
+      "category": "reviewer",
+      "rarity": "legendary",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/legendary-critic.png",
       "source": "remote"
     },
     {
@@ -240,6 +372,72 @@
       "rarity": "epic",
       "type": "ACHIEVEMENT",
       "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/bug-hunter-min.png",
+      "source": "remote"
+    },
+    {
+      "id": "special_founding_member",
+      "name": "Founding Member",
+      "description": "One of the original founding members",
+      "emoji": "🏛️",
+      "category": "special",
+      "rarity": "legendary",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/founding-member.png",
+      "source": "remote"
+    },
+    {
+      "id": "first_finish",
+      "name": "First Finish",
+      "description": "Finished your first book",
+      "emoji": "🏁",
+      "category": "reader",
+      "rarity": "common",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/first-finish.png",
+      "source": "remote"
+    },
+    {
+      "id": "book_collector",
+      "name": "Book Collector",
+      "description": "Added many books to your library",
+      "emoji": "📚",
+      "category": "collector",
+      "rarity": "rare",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/book-collector.png",
+      "source": "remote"
+    },
+    {
+      "id": "legendary_collector",
+      "name": "Legendary Collector",
+      "description": "Amassed an extraordinary book collection",
+      "emoji": "📖",
+      "category": "collector",
+      "rarity": "legendary",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/legendary-collector.png",
+      "source": "remote"
+    },
+    {
+      "id": "library_master",
+      "name": "Library Master",
+      "description": "Mastered the art of library organization",
+      "emoji": "🏛️",
+      "category": "collector",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/library-master.png",
+      "source": "remote"
+    },
+    {
+      "id": "book_patron",
+      "name": "Book Patron",
+      "description": "A true patron of literature",
+      "emoji": "📜",
+      "category": "collector",
+      "rarity": "epic",
+      "type": "ACHIEVEMENT",
+      "icon_url": "https://raw.githubusercontent.com/IReaderorg/badge-repo/main/book-patron.png",
       "source": "remote"
     }
   ]
